@@ -2,7 +2,7 @@
 
 A multilingual tool to detect suspicious/fake URLs and protect users from phishing scams. Supports 10 Indian languages with dark mode.
 
-[![Live Demo]](https://fake-link-detector.netlify.app/) 
+[[Live Demo]](https://fake-link-detector.netlify.app/) 
 
 
 
@@ -58,3 +58,14 @@ A multilingual tool to detect suspicious/fake URLs and protect users from phishi
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/fake-link-detector.git
+2.Open index.html in your browser
+
+No build step or dependencies required!
+```
+Contributing 🤝 
+Contributions are welcome! Please open an issue or submit a pull request for any: Bug fixes New features Language translations UI improvements
+
+Acknowledgements 🙏 
+Inspired by the need to combat online phishing scams Uses Tailwind CSS for styling Font Awesome icons for UI elements Google Fonts for typography
+
+Stay safe online! Always verify links before clicking.
