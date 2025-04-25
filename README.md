@@ -1,1 +1,60 @@
-# fake-link-detector
+# Fake Link Detector 🌐🔍
+
+A multilingual tool to detect suspicious/fake URLs and protect users from phishing scams. Supports 10 Indian languages with dark mode.
+
+[![Live Demo]](https://fake-link-detector.netlify.app/) 
+
+
+
+## Features ✨
+
+- **Multilingual Support** - Available in 10 Indian languages (English, Hindi, Telugu, Tamil, Kannada, Malayalam, Bengali, Marathi, Gujarati, Punjabi)
+- **Comprehensive URL Analysis** - Checks for:
+  - HTTPS security
+  - Suspicious TLDs
+  - URL shorteners
+  - IP addresses
+  - Brand impersonation
+  - Phishing patterns
+- **Responsive Design** - Works on all devices
+- **No Dependencies** - Pure HTML, CSS, and JavaScript
+
+## How to Use 🚀
+
+1. Enter a URL in the input field
+2. Click "Check" or press Enter
+3. View detailed analysis results
+4. Report suspicious links if needed
+
+## Supported Checks ✔️
+
+- ✅ HTTPS verification
+- ✅ Suspicious domain detection
+- ✅ URL shortener identification
+- ✅ IP address detection
+- ✅ Brand impersonation patterns
+- ✅ Phishing pattern matching
+- ✅ Character analysis
+- ✅ Subdomain analysis
+- ✅ URL length evaluation
+
+## Supported Languages 🌍
+
+| Language       | Code |
+|----------------|------|
+| English        | en   |
+| Hindi          | hi   |
+| Telugu         | te   |
+| Tamil          | ta   |
+| Kannada        | kn   |
+| Malayalam      | ml   |
+| Bengali        | bn   |
+| Marathi        | mr   |
+| Gujarati       | gu   |
+| Punjabi        | pa   |
+
+## Installation 💻
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/fake-link-detector.git
